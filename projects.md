@@ -13,3 +13,10 @@
 - Analysis: EDA, correlation analysis
 - Key Insight: Service quality had strongest impact on satisfaction
 - [View Project Repository](https://github.com/yourusername/customer-analysis)
+## 3. Student Performance Prediction
+**Objective:** Predict student academic performance based on study habits  
+**Dataset:** Academic performance dataset  
+**Tools:** Python, SQL  
+**Key Skills:** Data preprocessing, regression modeling  
+
+👉 [View Project Repository](https://github.com/yourusername/student-performance-prediction)
