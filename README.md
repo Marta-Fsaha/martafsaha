@@ -5,7 +5,6 @@ I am a data analytics student with hands-on experience in SQL, Python, Excel, an
 I enjoy turning raw data into meaningful insights.
 ## Skills
 - SQL, Python
-- Pandas, NumPy, Matplotlib
 - Excel, Power BI, Tableau
 
 ## Projects
