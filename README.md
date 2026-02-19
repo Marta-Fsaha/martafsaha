@@ -1,7 +1,7 @@
 # Hi, I am Marta Fsaha
-### Aspiring Data Analyst
+### Junior  Data Analyst
 
-I am a data analytics student with hands-on experience in SQL, Python, Excel, and Power BI.
+I am a data analyst with hands-on experience in SQL, Python, Excel, and Power BI.
 I enjoy turning raw data into meaningful insights.
 ## Skills
 - SQL, Python
