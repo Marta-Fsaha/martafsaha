@@ -8,6 +8,7 @@ I enjoy turning raw data into meaningful insights.
 - Excel, Power BI, Tableau
 
 ## Projects
+- <a href="https://github.com/Marta-Fsaha/Excel-Project"> Excel Project </a>
 - [Sales Performance Analysis](projects.md)
 - [Customer Satisfaction Analysis](projects.md)
 
